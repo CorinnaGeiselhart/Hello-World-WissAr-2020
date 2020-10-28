@@ -7,7 +7,7 @@ A simple Hello World Java App.
 ---
 
 ### Voraussetzungen
-Vorausgesetzt wird eine aktuelle Version von Java und ein Entwicklungsumgebung.
+Vorausgesetzt wird eine Entwicklungsumgebung für die Programmiersprache Java.
 
 ### Starten der Anwendung
 Durch das Ausführen der Main.java in der Entwicklungsumgebung kann die Anwednung gestartet werden.
