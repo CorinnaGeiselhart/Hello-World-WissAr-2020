@@ -3,6 +3,9 @@
 ![Hello World](image.png)
  
 A simple Hello World Java App.
-  
+
+### Voraussetzungen
 Vorausgesetzt wird eine aktuelle Version von Java und ein Entwicklungsumgebung.
+
+### Starten der Anwendung
 Durch das Ausführen der Main.java kann die Anwednung gestartet werden.
