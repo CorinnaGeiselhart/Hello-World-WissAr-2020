@@ -4,6 +4,8 @@
  
 A simple Hello World Java App.
 
+---
+
 ### Voraussetzungen
 Vorausgesetzt wird eine aktuelle Version von Java und ein Entwicklungsumgebung.
 
