@@ -10,4 +10,4 @@ A simple Hello World Java App.
 Vorausgesetzt wird eine Entwicklungsumgebung für die Programmiersprache Java.
 
 ### Starten der Anwendung
-Durch das Ausführen der Main.java in der Entwicklungsumgebung kann die Anwednung gestartet werden.
+Durch das Ausführen der Main.java in der Entwicklungsumgebung kann die Anwendnung gestartet werden.
